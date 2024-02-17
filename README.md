@@ -1,5 +1,6 @@
 # HBV202GAssignment6
 A project with a silly car owner class that needs refactoring.
+
 This project is a Maven project, i.e. it uses the standard Maven project structure that your IDE hopefully understands when you `git clone` it. The provided Maven POM includes the JUnit4 dependency.
 
 Both the implementation and the tests are in Java package `is.hi.hbv202g.ass6`, 

@@ -6,7 +6,7 @@ import static org.junit.Assert.assertEquals;
 
 public class CarTest {
     @Test
-    public void getNameOfCar() {
+    public void testGetNameOfCar() {
         Car car = new Car("Beetle");
         CarOwner carOwner = new CarOwner("John Doe", car);
         assertEquals("Beetle", carOwner.getNameOfCar());
